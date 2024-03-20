@@ -1,0 +1,11 @@
+---Read me ---
+
+"This is a machine learning model designed to predict whether the signal received from the sonar corresponds to a rock or a mine. The model utilizes a logistic regression algorithm and requires the following libraries: pandas, numpy, and sklearn.
+
+To import the necessary modules, use the following commands:
+
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score"
